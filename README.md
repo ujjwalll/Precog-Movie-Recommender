@@ -44,6 +44,9 @@ write following commands
 4. python main.py
 
 Here you go, the application is running on your terminal.
+# Heroku App
+
+Also deployed a heroku app for this application that you can find [here](https://precog-movies.herokuapp.com/)
 
 # I love BROWNIES !!!!
 
