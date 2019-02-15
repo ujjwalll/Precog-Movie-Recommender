@@ -158,9 +158,6 @@ class AlsRecommender:
 
 
 class Dataset:
-    """
-    data object make loading raw files easier
-    """
     def __init__(self, spark_session, filepath):
         """
         spark dataset constructor
