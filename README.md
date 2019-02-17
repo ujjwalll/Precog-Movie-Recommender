@@ -24,9 +24,6 @@ This is the one of the page which shows you the movies that shows you, It will d
 
 ![](src/app/static/images-2/bl3.jpg)
 
-FINAL PAGE IMAGE-2
-
-![](src/app/static/images-2/bl4.jpg)
 
 # Technology Stack
 
