@@ -10,13 +10,23 @@ HOME PAGE :
 
 It is the first page which you encounter when you open or intialises the app. It contains all the basic info about how app works and what are the things that are used etc.
 
+![](src/app/static/images-2/bl1.jpg)
+
 REVIEW PAGE:
 
 You are then redirected to the review page where you can see movie and you need to rate them so that smart ML algorithm which is running on the backend can understand your taste and recommend you the movies that suits your taste. If you don't know about the movie shown on the page, just refresh it it will show you a new movie every time.
 
+![](src/app/static/images-2/bl2.jpg)
+
 FINAL PAGE:
 
 This is the one of the page which shows you the movies that shows you, It will display 4 Details of the movie i.e. movie name, year of release, movie poster, genre.
+
+![](src/app/static/images-2/bl3.jpg)
+
+FINAL PAGE IMAGE-2
+
+![](src/app/static/images-2/bl4.jpg)
 
 # Technology Stack
 
